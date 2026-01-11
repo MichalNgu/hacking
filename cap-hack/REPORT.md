@@ -134,4 +134,5 @@ _\- Podrobnosti viz screenshots/Privilege\_escalation.png_
     
 3.  **Hloubková obrana (Capabilities):** Odstranit nepotřebná privilegia z interpretů (Python, PHP). Využívat zásadu minimálních privilegií (**Principle of Least Privilege**).
 
+* * *
 Do tohoto reportu byly HTB flagy, hesla a další citlivé údaje úmyslně anonymizovány, aby bylo dodrženo právní a etické rámce platformy Hack The Box.
